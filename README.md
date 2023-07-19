@@ -7,4 +7,4 @@
 ![Screenshot](https://github.com/Francesco601/Pycalc/blob/main/normal_mode.png)
 
 ## Scientific Mode
-![Screenshot] (
+![Screenshot] (https://github.com/Francesco601/Pycalc/blob/main/scientific_mode.png)
