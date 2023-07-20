@@ -279,7 +279,7 @@ btnPi = Button(calc, text="pi",width=6,
 			bd=4,command=added_value.pi
 			).grid(row=1, column= 4, pady = 1)
 
-btnCos = Button(calc, text="Cos",width=6,
+btnCos = Button(calc, text="cos",width=6,
 				height=2,bg='black',fg='white',
 				font=('Helvetica',20,'bold'),
 				bd=4,command=added_value.cos
@@ -304,7 +304,7 @@ btn2Pi = Button(calc, text="2pi",width=6,
 				bd=4,command=added_value.tau
 			).grid(row=2, column= 4, pady = 1)
 
-btnCosh = Button(calc, text="Cosh",width=6,
+btnCosh = Button(calc, text="cosh",width=6,
 				height=2,bg='black',fg='white',
 				font=('Helvetica',20,'bold'),
 				bd=4,command=added_value.cosh
@@ -335,7 +335,7 @@ btnExp = Button(calc, text="exp",width=6, height=2,
 				bd=4,command=added_value.exp
 			).grid(row=3, column= 5, pady = 1)
 
-btnMod = Button(calc, text="Mod",width=6,
+btnMod = Button(calc, text="mod",width=6,
 				height=2,bg='black',fg='white',
 				font=('Helvetica',20,'bold'),
 				bd=4,command=lambda:added_value.operation("mod")
